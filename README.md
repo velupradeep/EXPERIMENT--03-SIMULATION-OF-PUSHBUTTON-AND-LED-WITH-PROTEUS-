@@ -72,6 +72,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
+c
 #include "main.h"
 #include<stdbool.h>
 void push_button();
