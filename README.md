@@ -207,6 +207,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![image](https://github.com/user-attachments/assets/a6dd4d1e-9628-4dfb-91bc-d9784ce251e6)
 
 
+![image](https://github.com/user-attachments/assets/0a6a6df5-b38c-4ad9-81ad-2bbc401c6dd3)
+
+
+
 
 
 
