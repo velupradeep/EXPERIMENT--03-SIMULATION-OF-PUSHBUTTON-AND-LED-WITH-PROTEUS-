@@ -204,8 +204,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+# Output State Off :
 ![image](https://github.com/user-attachments/assets/a6dd4d1e-9628-4dfb-91bc-d9784ce251e6)
 
+
+# Output State On :
 
 ![image](https://github.com/user-attachments/assets/0a6a6df5-b38c-4ad9-81ad-2bbc401c6dd3)
 
@@ -214,7 +217,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
+## Proteus layout
 ![image](https://github.com/user-attachments/assets/82b27093-e60c-4911-8a43-4b89b6034825)
 
  
